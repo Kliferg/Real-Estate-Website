@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Cavite Starter Townhouse",
+    "price": "PHP 3,850,000",
+    "location": "Imus, Cavite",
+    "beds": 3,
+    "baths": 2,
+    "area": "82 sqm",
+    "lot": "60 sqm",
+    "summary": "A practical townhouse for first-time buyers who need access to Metro Manila and nearby schools."
+  },
+  {
+    "id": 2,
+    "name": "Laguna Family Duplex",
+    "price": "PHP 5,600,000",
+    "location": "Santa Rosa, Laguna",
+    "beds": 4,
+    "baths": 3,
+    "area": "128 sqm",
+    "lot": "96 sqm",
+    "summary": "A family-ready duplex with parking, a flexible ground-floor room, and a simple open living area."
+  },
+  {
+    "id": 3,
+    "name": "Bulacan Modern Bungalow",
+    "price": "PHP 4,250,000",
+    "location": "Malolos, Bulacan",
+    "beds": 3,
+    "baths": 2,
+    "area": "94 sqm",
+    "lot": "120 sqm",
+    "summary": "A single-storey home with fewer stairs, a wider lot, and a compact layout for everyday comfort."
+  },
+  {
+    "id": 4,
+    "name": "Antipolo View Residence",
+    "price": "PHP 8,900,000",
+    "location": "Antipolo, Rizal",
+    "beds": 4,
+    "baths": 3.5,
+    "area": "185 sqm",
+    "lot": "150 sqm",
+    "summary": "A hillside-inspired home with larger windows, a view deck placeholder, and private family zones."
+  },
+  {
+    "id": 5,
+    "name": "Cebu Suburban House",
+    "price": "PHP 7,450,000",
+    "location": "Talisay, Cebu",
+    "beds": 4,
+    "baths": 3,
+    "area": "162 sqm",
+    "lot": "132 sqm",
+    "summary": "A balanced Visayas home model for growing families who want city access and a quieter street."
+  },
+  {
+    "id": 6,
+    "name": "Davao Courtyard Home",
+    "price": "PHP 6,800,000",
+    "location": "Lanang, Davao City",
+    "beds": 3,
+    "baths": 3,
+    "area": "148 sqm",
+    "lot": "140 sqm",
+    "summary": "A warm-climate layout with a shaded courtyard placeholder, secure parking, and airy interiors."
+  }
+]
